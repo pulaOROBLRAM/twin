@@ -24,7 +24,7 @@ app = FastAPI()
 
 origins_env = os.getenv(
     "CORS_ORIGINS",
-    "http://localhost:3000,https://master.twin-frontend.pages.dev",
+    "http://localhost:3000,http://192.168.254.105:3000,https://master.twin-frontend.pages.dev",
 )
 origins = [origin.strip() for origin in origins_env.split(",") if origin.strip()]
 app.add_middleware(
