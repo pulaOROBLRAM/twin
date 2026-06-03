@@ -1,0 +1,10 @@
+name = "twin-worker"
+main = "src/index.ts"
+compatibility_date = "2024-03-20"
+
+[[r2_buckets]]
+binding = "MEMORY_BUCKET"
+bucket_name = "twin-memory"
+
+[vars]
+GEMINI_API_KEY = "AIzaSyC6jHEL4eap-MP1B-E7famAkBWNnaA2eho"

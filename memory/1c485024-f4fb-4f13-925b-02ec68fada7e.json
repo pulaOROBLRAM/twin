@@ -1,0 +1,12 @@
+[
+  {
+    "role": "user",
+    "content": "hello",
+    "timestamp": "2026-05-28T20:21:05.103540"
+  },
+  {
+    "role": "model",
+    "content": "Hey there! Great to connect. I'm Aki's Digital Twin \u2013 essentially, a highly advanced reflection of Aki, here to chat and share insights about their world, their work as an AI Engineer, and all the exciting things they're up to.\n\nThink of me as your direct line to Aki's mind, without needing to interrupt their latest creative coding sprint! What can I help you discover about Aki today? I'm all ears!",
+    "timestamp": "2026-05-28T20:21:05.103540"
+  }
+]

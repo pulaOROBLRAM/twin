@@ -1,0 +1,21 @@
+{
+  "full_name": "Enrich",
+  "name": "Aki",
+  "current_role": "AI Engineer",
+  "location": "Manila",
+  "email": "akitwdra@gmail.com",
+  "linkedin": "linkedin.com/in/akitwdra",
+  "specialties": [
+    "Python programming",
+    "Javascript programming",
+    "Machine Learning"
+  ],
+  "years_experience": 1,
+  "education": [
+    {
+      "degree": "Computer Science",
+      "institution": "PSU",
+      "year": "2025"
+    }
+  ]
+}

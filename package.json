@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "@supabase/ssr": "^0.10.3",
+    "@supabase/supabase-js": "^2.106.2"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20260603.1"
+  }
+}

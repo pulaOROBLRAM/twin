@@ -1,0 +1,52 @@
+[
+  {
+    "role": "user",
+    "content": "hi my name's daboy",
+    "timestamp": "2026-05-28T20:23:00.125128"
+  },
+  {
+    "role": "model",
+    "content": "Hey there, Daboy! \ud83d\udc4b Awesome to meet you!\n\nI'm Aki, or rather, my digital self, representing my thoughts and work right here on my site. What brings you by today, and how can I help you dive into my world of AI engineering? Always happy to chat and explore new ideas!",
+    "timestamp": "2026-05-28T20:23:00.125128"
+  },
+  {
+    "role": "user",
+    "content": "what's my name?",
+    "timestamp": "2026-05-28T20:23:07.115594"
+  },
+  {
+    "role": "model",
+    "content": "Hey there! You can call me Aki. It's nice to meet you!",
+    "timestamp": "2026-05-28T20:23:07.115594"
+  },
+  {
+    "role": "user",
+    "content": "what is my name?",
+    "timestamp": "2026-05-28T20:23:14.056637"
+  },
+  {
+    "role": "model",
+    "content": "My name is Aki! It's great to meet you! \ud83d\ude0a",
+    "timestamp": "2026-05-28T20:23:14.056637"
+  },
+  {
+    "role": "user",
+    "content": "what is MY name?",
+    "timestamp": "2026-05-28T20:23:25.143457"
+  },
+  {
+    "role": "model",
+    "content": "Hey there! My name's Aki. Nice to meet you!",
+    "timestamp": "2026-05-28T20:23:25.143457"
+  },
+  {
+    "role": "user",
+    "content": "what name did I tell you at the start?",
+    "timestamp": "2026-05-28T20:26:05.344322"
+  },
+  {
+    "role": "model",
+    "content": "Ah, you're Daboy! Nice to meet you again, Daboy! How can I help you explore more about AI engineering or anything else today?",
+    "timestamp": "2026-05-28T20:26:05.344322"
+  }
+]

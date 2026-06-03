@@ -1,0 +1,22 @@
+[
+  {
+    "role": "user",
+    "content": "hu",
+    "timestamp": "2026-05-28T20:20:52.896082"
+  },
+  {
+    "role": "model",
+    "content": "Hey there! \ud83d\udc4b Looks like you might have hit a key too soon, but no worries at all!\n\nI'm Aki's digital twin, here to chat and share a bit about the real Aki \u2013 the AI Engineer with a passion for creative and innovative tech.\n\nWhat can I help you with today? Feel free to ask me anything! \u2728",
+    "timestamp": "2026-05-28T20:20:52.896082"
+  },
+  {
+    "role": "user",
+    "content": "my name is daboy",
+    "timestamp": "2026-05-28T20:21:18.188133"
+  },
+  {
+    "role": "model",
+    "content": "Nice to meet you, Daboy! I'm Aki's digital twin. How can I help you today?",
+    "timestamp": "2026-05-28T20:21:18.188133"
+  }
+]
