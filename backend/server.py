@@ -8,6 +8,9 @@ import json
 import uuid
 from datetime import datetime
 from pathlib import Path
+import sys
+import logging
+logging.basicConfig(stream=sys.stdout, level=logging.DEBUG)
 
 try:
     from google import genai
