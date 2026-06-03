@@ -19,7 +19,10 @@ load_dotenv(BASE_DIR / ".env", override=True)
 
 app = FastAPI()
 
-origins = os.getenv("CORS_ORIGINS", "http://localhost:3000").split(",")
+origins = os.getenv(
+    "CORS_ORIGINS",
+    "http://localhost:3000,https://master.twin-frontend.pages.dev",
+).split(",")
 app.add_middleware(
     CORSMiddleware,
     allow_origins=origins,
