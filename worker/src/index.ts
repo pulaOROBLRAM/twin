@@ -74,10 +74,16 @@ export default {
           headers: { 'Content-Type': 'application/json', 'Access-Control-Allow-Origin': '*' },
         });
       } catch (err) {
-        return new Response(JSON.stringify({ error: String(err) }), { status: 500 });
+        return new Response(JSON.stringify({ error: String(err) }), { 
+          status: 500,
+          headers: { 'Content-Type': 'application/json', 'Access-Control-Allow-Origin': '*' },
+        });
       }
     }
 
-    return new Response('Not Found', { status: 404 });
+    return new Response('Not Found', { 
+      status: 404,
+      headers: { 'Access-Control-Allow-Origin': '*' },
+    });
   },
 };

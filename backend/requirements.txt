@@ -1,8 +1,6 @@
-fastapi
-uvicorn
-openai
-python-dotenv
-python-multipart
-boto3
-pypdf
-mangum
+fastapi>=0.95.0
+uvicorn>=0.22.0
+google-genai>=0.10.0
+openai>=2.38.0
+python-dotenv>=1.2.2
+python-multipart>=0.0.29
